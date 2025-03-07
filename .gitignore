@@ -1,0 +1,15 @@
+# Virtual environments
+venv/
+venv-py311/
+
+# python bytecode
+__pycache__
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+logs/
+*.log
+
+.DS_Store
